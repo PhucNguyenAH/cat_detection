@@ -1,0 +1,15 @@
+cython
+cffi
+opencv-python
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+beautifulsoup4
+lxml
+tensorflow
+keras
+scikit-learn
+streamlit

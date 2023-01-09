@@ -1,0 +1,15 @@
+dogs_data
+├── dataset.yaml
+├── images
+│   ├── train [16464 entries exceeds filelimit, not opening dir]
+│   └── val [4116 entries exceeds filelimit, not opening dir]
+├── labels
+│   ├── train [16464 entries exceeds filelimit, not opening dir]
+│   └── val [4116 entries exceeds filelimit, not opening dir]
+├── train.txt
+└── val.txt
+
+6 directories, 3 files
+
+
+

@@ -1,0 +1,9 @@
+archive*
+*.pdf
+data
+oxford-iiit-pet
+src/runs/*
+cats_data
+dogs_data
+dogs
+*.zip

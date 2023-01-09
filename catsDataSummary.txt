@@ -1,0 +1,13 @@
+cats_data
+├── annotations
+│   └── instances_val.json
+├── images
+│   ├── train [8939 entries exceeds filelimit, not opening dir]
+│   └── val [2235 entries exceeds filelimit, not opening dir]
+├── labels
+│   ├── train [8939 entries exceeds filelimit, not opening dir]
+│   └── val [2235 entries exceeds filelimit, not opening dir]
+├── train.txt
+└── val.txt
+
+7 directories, 3 files
