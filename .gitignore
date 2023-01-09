@@ -7,5 +7,6 @@ cats_data
 dogs_data*
 dogs
 *.zip
-dogsData*
-catsData*
+./dogsDataFull.txt
+./dogsDataSummary.txt
+./dogsPreprocess.py
